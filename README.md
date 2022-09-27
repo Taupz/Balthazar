@@ -2,7 +2,7 @@
 
 🎓 French student  
 📍  ESIR  
-⚙  Currently learning
+🌎 <a href=''>Website in progress</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taupz&theme=radical&show_icons=true)
 
