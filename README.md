@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm Balthazar</h2>
+<h2>Hi 👋, I'm <span style="color:#D8CA7C">Balthazar</span></h2>
 
 📍 French student
 
