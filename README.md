@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Balthazar</h1>
+<h2>Hi 👋, I'm Balthazar</h2>
 
 📍 French student
 
