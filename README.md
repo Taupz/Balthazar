@@ -1,9 +1,8 @@
 <h2>Hi 👋, I'm Balthazar</h2>
 
-🎓 French student
-📍 ESIR
+🎓 French student  
+📍 ESIR  
 ⚙ Currently learning
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taupz&theme=radical&show_icons=true)
 
