@@ -1,2 +1,2 @@
 # Balthazar
-French student
+🇫🇷 French student
