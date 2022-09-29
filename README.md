@@ -2,7 +2,7 @@
 
 - 🎓 French student
 - 📌 ESIR
-- 🌍 <a href="https://www.cecontemporary.com/wp-content/uploads/2018/10/WORK-IN-PROGRESS.jpg">Website</a>
+- 🌍 <a href="">Website</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taupz&theme=radical&show_icons=true)
 
